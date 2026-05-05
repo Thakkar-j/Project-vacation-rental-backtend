@@ -32,7 +32,7 @@ A comprehensive full-stack vacation rental platform built with a robust Node.js/
 
 ```bash
 git clone <repository-url>
-cd Draft-project
+cd Project-vacation-rental-backend
 ```
 
 ### 2. Backend Setup
@@ -40,7 +40,7 @@ cd Draft-project
 Navigate to the backend directory and install dependencies:
 
 ```bash
-cd Backend
+## go to backend folder
 npm install
 ```
 
